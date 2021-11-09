@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+# Welcome to My Reading Page
+Hello, my name is Angela (https://github.com/anjacks12) and welcome to my Reading Page! 
+Coding and tech is a whole new world to me and this is where I'll be displaying my Code Fellows journey.
+This should be interesting and I'm excited to see where I'll end up!
 
-You can use the [editor on GitHub](https://github.com/anjacks12/reading-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What is Growth Mindset?
+Growth mindset is embracing challanges and obsticals as an _opportunity_ for personal growth and development.
+### 3 Reminders for Myself to Keep a Growth Mindset:
+- Don't tell yourself it is impossible. There's a way. It may take some time to figure out
+- Keep **going**! Any movement is better than **NO** movement!
+- Give yourself a :+1:! You're doing something new and that's fun!
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/anjacks12/reading-notes/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![image](https://selahreflections.com/wp-content/uploads/2015/12/trying-something-new-even-when-it-scares-you.jpg)

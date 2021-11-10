@@ -6,7 +6,7 @@ This should be interesting and I'm excited to see where I'll end up!
 
 ### What is Growth Mindset?
 
-Growth mindset is embracing challanges and obsticals as an _opportunity_ for personal growth and development.
+Growth mindset is embracing challenges and obstacles as an _opportunity_ for personal growth and development.
 
 ### 3 Reminders for Myself to Keep a Growth Mindset:
 

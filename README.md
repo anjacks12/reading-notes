@@ -1,4 +1,4 @@
-# Welcome to My Reading Page
+# Welcome to My 102 Reading Notes
 
 Hello, my name is Angela (https://github.com/anjacks12) and welcome to my Reading Page! 
 Coding and tech is a whole new world to me and this is where I'll be displaying my Code Fellows journey.

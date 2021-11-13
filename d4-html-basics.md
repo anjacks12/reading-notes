@@ -1,4 +1,4 @@
-# The Basics to a HTML Webpage
+# HTML Basics
 ### What is HTML?
 + HTML=hypertext markup language
 + is used to build the structure of a website

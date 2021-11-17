@@ -14,11 +14,9 @@
     + operator can have one of two vaules based on a condition:
         + condition? val1 : val2
 
----
 ## Loops and Iteration:
 + loops offer a quick and easy way to do something
 + loops repeat an action a certain number of times
----
 
 ## Types of Loops:
 + for statement

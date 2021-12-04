@@ -22,14 +22,14 @@ I'll continue to track what I'm learning in 201 through the 201 Reading Notes fo
 
 + [Day 5: Learning CSS](d5-learning-css.md)
 
-+ [Day 6: Java Script](d6-JavaScript.md)
++ [Day 6: JavaScript](d6-JavaScript.md)
 
-+ [Day 7: Programming With Java Script](d7-programming-with-js.md)
++ [Day 7: Programming With JavaScript](d7-programming-with-js.md)
 
 + [Day 8: Operators and Loops](d8-operators-and-loops.md)
 
 ### 201n25 Reading Notes:
-+ [Reading 01]()
++ [Read 01: Introductory HTML and JavaScript](class-01.md)
 
 + [Reading 02]()
 

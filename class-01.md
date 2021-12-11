@@ -1,4 +1,4 @@
-# 201n25 Reading 01
+# Read 01: Introductory HTML and JavaScript
 
 ## Chapter 1: HTML
 + HTML consists of elements (or tags) that tells/instructs a browser on how materials should be displayed on a web page

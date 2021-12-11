@@ -1,4 +1,4 @@
-# Read: 02-HTML Text, CSS Introduction, and Basic JavaScript Instructions
+# Read 02: HTML Text, CSS Introduction, and Basic JavaScript Instructions
 
 Notes were made from Jon Duckett's HTML & CSS and JavaScript & jQuery books
 

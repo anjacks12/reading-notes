@@ -31,9 +31,9 @@ I'll continue to track what I'm learning in 201 through the 201 Reading Notes fo
 ### 201n25 Reading Notes:
 + [Read 01: Introductory HTML and JavaScript](class-01.md)
 
-+ [Reading 02]()
++ [Read 02: HTML Text, CSS Instruction, and Basic JavaScript Instructions](class-02.md)
 
-+ [Reading 03]()
++ [Read 03: HTML Lists, Control Flow with JS and the CSS Box Model]()
 
 + [Reading 04]()
 

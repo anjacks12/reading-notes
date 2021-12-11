@@ -48,13 +48,21 @@ Notes were made from Jon Duckett's HTML & CSS and JavaScript & jQuery books
 
 ## Chapter 4: Decisions and Loops (pp. 162-182)
 
-* Switch Statements: 
+* Switch Statements:
   * has a variable called the switch value; within the code block are cases with possible values for the variable; once the case that matches the value is found, that code is run
   * each case ends with a `break` that stops to code running once a match has been found
-  * is faster than if/if...else statements because it stops once a match has been found 
-* Truthy Values:
-  * 
-* Falsy Values:
-* Checking Equality and Existence
-* Short Circuit Values:
-* Loops: 
+  * is faster than if/if...else statements because it stops once a match has been found
+* Truthy Values: values are treated as if they were true
+  * values that are: `true`, 1, `'things'` 10*2, `'0'`, `'false'`, true
+* Falsy Values: values are treated as if they were false
+  * values that are: `false` , 0 , `' '` , `NaN` or has no value assigned to the variable
+* Checking Equality and Existence:
+  * unary operator: can be used to check if an element exits
+  * short circuit values: can also be used to check if an element exits
+    * uses logical operators to read the expression from left to right and stops once a result is found
+* Loops: three different types of loops (for, while, and do while)
+  * loops only run if a condition is true
+  * For loops: good if you need code to run for certain number of iterations
+  * While loops: good if you don't know how many times the code needs to run; can set up a condition and have loop run as long as the condition is true
+  * Do While loops: similar to while loops; difference is it runs the condition within the curly bracket at least once, even if the condition is false
+  

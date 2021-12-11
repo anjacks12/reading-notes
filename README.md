@@ -33,7 +33,7 @@ I'll continue to track what I'm learning in 201 through the 201 Reading Notes fo
 
 + [Read 02: HTML Text, CSS Instruction, and Basic JavaScript Instructions](class-02.md)
 
-+ [Read 03: HTML Lists, Control Flow with JS and the CSS Box Model]()
++ [Read 03: HTML Lists, Control Flow with JS and the CSS Box Model](class-03.md)
 
 + [Reading 04]()
 

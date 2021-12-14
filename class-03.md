@@ -1,6 +1,6 @@
 # Read 03: HTML Lists, Control Flow with JS and the CSS Box Model
 
-Notes were made from Jon Duckett's HTML & CSS and JavaScript & jQuery books
+Notes were made from Jon Duckett's HTML & CSS and JavaScript & jQuery books (see Resources)
 
 ## Chapter 3: HTML Lists
 

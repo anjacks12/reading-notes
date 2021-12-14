@@ -95,7 +95,4 @@
 
 
 Reading Notes were made from:
-
->Duckett, J.&nbsp; (2011). [*HTML & CSS Design and Build Websites.*](https://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189/ref=pd_bxgy_img_1/130-3455493-2386462?pd_rd_w=eClxV&pf_rd_p=c64372fa-c41c-422e-990d-9e034f73989b&pf_rd_r=G7HS35EQKNDWPDSGS1HX&pd_rd_r=2682d0cb-4146-4322-9839-ee698278ddb9&pd_rd_wg=xqXSJ&pd_rd_i=1118008189&psc=1)&nbsp; John Wiley & Sons, Inc.
-
->Duckett, J.&nbsp; (2014).&nbsp; [*JavaScript & jQuery Interactive Front-End Web Development.*](https://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647/ref=sr_1_1?crid=HXFG0UITJXVA&keywords=javascript+and+jquery&qid=1638589833&s=books&sprefix=javascript+and+j%2Cstripbooks%2C207&sr=1-1)&nbsp; John Wiley & Sons, Inc.
+Notes were made from Jon Duckett's HTML & CSS and JavaScript & jQuery books (see Resources)

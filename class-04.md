@@ -1,8 +1,9 @@
-# HTML Links, JS Functions, and Intro to CSS Layout
+# Read 04: HTML Links, JS Functions, and Intro to CSS Layout
 
-Notes were made from Jon Duckett's HTML & CSS and JavaScript & jQuery books (see [Resources](#table-resource)]
+Notes were made from Jon Duckett's HTML & CSS and JavaScript & jQuery books (see Resources)
 
 ### Chapter 4: Links
+
 * links use the `<a>` element and `href` attribute
 * used to link other websites to your webpage by using absolute URLs
   * absolute URLs are full web address for a page

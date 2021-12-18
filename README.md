@@ -8,8 +8,8 @@ I'll continue to track what I'm learning in 201 through the 201 Reading Notes fo
 
 ![image](https://wisdomquotes.b-cdn.net/wp-content/uploads/learning-quotes-learning-is-a-treasure-that-will-follow-its-owner-everywhere-chinese-proverb-wisdom-quotes-1.jpg)
 
-## [Table of Contents & Resources](#table-resource)
+## Table of Contents & Resources
 
-* [Table of Contents](table-of-contents.md)
+* [Table of Contents](table-of-contents.md)  
 * [HTML & CSS Design and Build Websites](https://htmlandcssbook.com/)
 * [JavaScript & jQuery Interactive Front-End Web Development](https://javascriptbook.com/)

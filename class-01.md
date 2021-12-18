@@ -1,6 +1,10 @@
 # Read 01: Introductory HTML and JavaScript
 
+Reading Notes were made from:
+Notes were made from Jon Duckett's HTML & CSS and JavaScript & jQuery books (see Resources)
+
 ## Chapter 1: HTML
+
 + HTML consists of elements (or tags) that tells/instructs a browser on how materials should be displayed on a web page
 + Elements contain opening tags `<p>` and closing tags `</p>` that are sandwiched between content
 
@@ -15,6 +19,7 @@
     + `<body>`, `<title>`, and `<head>`
 
 ### Chapter 8: Extra Markup
+
 + DOCTYPE: informs the browser which version of HTML is being used
 + Comments can be included in the HTML without showing up on the web page by using:
         `!<--`COMMENTS`-->`
@@ -36,6 +41,7 @@
 + Escape characters: are ways to use characters that have a special designation as regular characters
 
 ### Chapter 17: HTML5 Layout
+
 + `<header>` and `<footer>`: appears at the top and bottom of the web page
     + they can also be used to contain multiple sections in a web page (i.e. blog post)
 + `<nav>` or navigation: used to hold links to navigate through a web page
@@ -49,6 +55,7 @@
     + Older versions of Internet Explorer may also need JavaScrip code added as well (like HTML5 shiv or HTML5 shim)
 
 ### Chapter 18: Process and Design
+
 + Need to evaluate who the target audience is/will be before designing a web page
 + Need to determine why they will be visiting the web page and what do they expect to get out of visiting
 + The frequency on visits should be considered as well since frequently visited sites may need more maintenance and updating
@@ -61,6 +68,7 @@
 + Grouping and Similarity: grouping related content together through design
 
 ### Chapter 1: The ABC of Programming
+
 + What is script and how do I create one?
 >"A script is a series of instructions" [^1]
 + Steps in writing code:
@@ -92,7 +100,3 @@
 [^1]: Duckett, J. &nbsp;(2014). &nbsp;*JavaScript & jQuery Interactive Front-End Web Development*.&nbsp; John Wiley & Sons, Inc.&nbsp; pg 14.
 
 [^2]: Duckett, J.&nbsp; (2014).&nbsp; *JavaScript & jQuery Interactive Front-End Web Development*.&nbsp; John Wiley & Sons, Inc.&nbsp; pg 21.
-
-
-Reading Notes were made from:
-Notes were made from Jon Duckett's HTML & CSS and JavaScript & jQuery books (see Resources)

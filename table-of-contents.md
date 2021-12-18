@@ -31,7 +31,7 @@
 
 + [Read 04: HTML Links, JS Functions, and Intro to CSS Layout](class-04.md)
 
-+ [Reading 05]()
++ [Reading 05: Images, Color, and Text](class-05.md)
 
 + [Reading 06]()
 

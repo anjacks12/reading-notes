@@ -33,7 +33,7 @@
 
 + [Reading 05: Images, Color, and Text](class-05.md)
 
-+ [Reading 06]()
++ [Read 06: Domain, Objects, and the DOM](class-06.md)
 
 + [Reading 07]()
 

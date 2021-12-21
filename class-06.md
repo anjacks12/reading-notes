@@ -23,6 +23,19 @@
 * In an object:
   * a variable is called `property`; the name of property is `key` and the value can be string, number, Boolean, array or another object
   * a function is called `method`; represents tasks associated with the object; the name of method is `key` and the value is always a function
+* Object Literal Notation example:
 
+  >var memberID = {  
+    firstName: 'John',  
+    lastName: 'Smith',  
+    age: '43',  
+    memberSearch: function () {  
+      return this.lastName - this.firstName;  
+    }  
+  };  
 
 ## Chapter 5: Document Object Model (pp. 183-242)
+
+* DOM is also called API (application Programming Interface)
+  * Instructs the browser how to load a web page via DOM tree
+    * DOM tree is made up of object nodes that contain properties (variables) and methods (functions)

@@ -4,7 +4,7 @@ Notes were made from Jon Duckett's HTML & CSS and JavaScript & jQuery books (see
 
 ## [Domain Modeling](https://github.com/codefellows/domain_modeling#domain-modeling)
 
-* 
+* Domain modeling is creating a coding model to solve a problem; if it is well structured, it can demonstrate that the problem is well understood
 
 ## Chapter 6: Tables (pp. 126-145)
 

@@ -35,7 +35,7 @@
 
 + [Read 06: Domain, Objects, and the DOM](class-06.md)
 
-+ [Reading 07]()
++ [Read 07: Object-Oriented Programming, HTML Tables](class-07.md)
 
 + [Reading 08]()
 

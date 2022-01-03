@@ -23,14 +23,22 @@ Notes were made from Chapter 15 "Layout" of Jon Duckett's HTML & CSS book (see R
   * a good mechanism for positioning items /creating layout on multi-axis (think x AND y axis)
   * allows for more layout options for items than flexbox
     * grid allows for overlapping of content while flexbox does not [^1]
-* Normal flow:
-  * inline-block: allows `block` elements to have `inline` element properties and `inline` elements to have `block` element properties [^2]
-  * floats: allows an image to move to the far right or left of the page while the text wrap around the image
-  * multicolumn layout: allows elements to displayed as columns and allows
-  * positioning:
-    * relative:
-    * absolute:
-    * fixed:
-    * sticky:
-    * static:
-
+* Positioning: different schemes allows for different controls of layout
+  * Inline-block: allows `block` elements to have `inline` element properties and `inline` elements to have `block` element properties [^2]
+  * Floats: allows an image to move to the far right or left of the page while the text wrap around the image
+  * Multicolumn layout: allows elements to displayed as columns and allows
+  * Normal: see above
+  * Relative: shifts the position of an element from its normal spot to another while not affecting the position of the elements around it
+  * Absolute: shifts the position of an element and the other remaining elements rearrange themselves as if the shifted element was no longer there
+  * Fixed: changes the position of an element and keeps it fixed there, even while the user scrolls down the page
+* Different devices have different screen sizes and resolutions; a factor that should be considered when designing a page
+  * resolution is the number of pixels on a screen (length x height)
+  * higher the resolution, the smaller the text looks
+  * designers aim to create pages within 960 - 1000 pixels wide due to different screen sizes
+  * having key content within 570 - 600 pixels height is a common practice by designers to let the user see that the page has relevant information for the user
+* Fixed width layouts:
+  * content of layout does not change if the window is increased or decreased in size
+    * measured in pixels
+* Liquid layouts:
+  * content of layout stretches and contracts when size of the window changes
+  

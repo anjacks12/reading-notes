@@ -23,21 +23,21 @@
 
 ## 201n25 Reading Notes:
 
-+ [Read 01: Introductory HTML and JavaScript](class-01.md)
++ [Reading 01: Introductory HTML and JavaScript](class-01.md)
 
-+ [Read 02: HTML Text, CSS Instruction, and Basic JavaScript Instructions](class-02.md)
++ [Reading 02: HTML Text, CSS Instruction, and Basic JavaScript Instructions](class-02.md)
 
-+ [Read 03: HTML Lists, Control Flow with JS and the CSS Box Model](class-03.md)
++ [Reading 03: HTML Lists, Control Flow with JS and the CSS Box Model](class-03.md)
 
 + [Read 04: HTML Links, JS Functions, and Intro to CSS Layout](class-04.md)
 
 + [Reading 05: Images, Color, and Text](class-05.md)
 
-+ [Read 06: Domain, Objects, and the DOM](class-06.md)
++ [Reading 06: Domain, Objects, and the DOM](class-06.md)
 
-+ [Read 07: Object-Oriented Programming, HTML Tables](class-07.md)
++ [Reading 07: Object-Oriented Programming, HTML Tables](class-07.md)
 
-+ [Reading 08]()
++ [Reading 08: More CSS Layout](class-08.md)
 
 + [Reading 09]()
 

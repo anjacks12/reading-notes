@@ -50,3 +50,14 @@ Resources: Notes were made from Jon Duckett's HTML & CSS book (see Resources)
 Resources: Notes were made from Jon Duckett's JavaScript & jQuery book (see Resources)
 
 ## Chapter 6: Events (pp. 243-292)
+
+* An event can bind to an element three different ways:
+  * in HTML by using event handler attributes (usually written with "on" before the event type)
+    * this is no longer used anymore and considered bad practice but may be present on old code
+  * in JS using DOM event handlers
+    * syntax: element.on*event* = *functionName*;
+    * this allows only one function to bind to each event handler
+  * in JS using event listeners
+    * syntax: element.addEventListener('*event*, *functionName*,[*Boolen*]);
+    * this allows multiple functions to bind to event listeners
+    * not supported in older browsers

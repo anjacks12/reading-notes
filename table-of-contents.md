@@ -39,7 +39,7 @@
 
 + [Reading 08: More CSS Layout](class-08.md)
 
-+ [Reading 09]()
++ [Reading 09: Forms and JS Events](class-09.md)
 
 + [Reading 10]()
 

@@ -41,7 +41,7 @@
 
 + [Reading 09: Forms and JS Events](class-09.md)
 
-+ [Reading 10]()
++ [Reading 10: Debugging](class-10.md)
 
 + [Reading 11]()
 

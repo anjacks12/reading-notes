@@ -43,7 +43,7 @@
 
 + [Reading 10: Debugging](class-10.md)
 
-+ [Reading 11]()
++ [Reading 11: Audio, Video, Images]()
 
 + [Reading 12]()
 

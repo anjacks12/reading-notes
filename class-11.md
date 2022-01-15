@@ -62,6 +62,21 @@ Resources: Notes were made from Jon Duckett's HTML & CSS book (see Resources)
 
 ## Chapter 19: Practical Information (pp. 476-492)
 
+* Search Engine Optimization (SEO) is how to get search engines to notice a web page through means like keywords and having other sites link to the web page
+  * there are several places that a search engine looks at on a page in search for keywords
+    * page title, url, headings text, link text, img alt text, page description in the `<head>`
+  * having the right keywords is, well, key; can do this by
+    * brainstorming --> organize --> research --> compare --> refine --> map
+  * Using Google Analytics for information gathering to get the answers to questions like:
+    * who is visiting the page?
+    * how many visits is the page getting and when?
+    * what are visitors looking at when visiting the page?
+    * where are the visitors coming from?
+* For web pages to get onto the web, they need a domain name and web hosting
+  * domain name is like the web page's address
+  * web hosting is where the web page is made available to the web through hosting companies that upload the page to a live server
+* File Transfer Protocol (FTP) is how the code and images of a web page is transferred to a hosting company
+
 ## Video and Audio APIs
 
 Resource: [Mozilla: Video and Audio APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Video_and_audio_APIs)

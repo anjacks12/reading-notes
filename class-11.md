@@ -66,4 +66,19 @@ Resources: Notes were made from Jon Duckett's HTML & CSS book (see Resources)
 
 Resource: [Mozilla: Video and Audio APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Video_and_audio_APIs)
 
+* `<video>` and `<audio>` tags allows for video and their audio to be put into a web page
+* because playback and audio controls on browsers can vary, it is advantageous to hide the default controls and create/style your own using HTML, CSS and JS; `HTMLMediaElement` is used to do this
+* In the article above, a file was used that displayed a HTML5 video player with HTML and CSS included
+  * Notable things about the HTML and CSS
+    * HTML had four `button` tags for stop, play, rewind and fast-forward
+      * these buttons has a `class` for the name (i.e. "stop", "fwd"), `data-icon` shows what icon should be on the button (i.e. "P", "R") and `aria-label` used to be read out by screen-readers (i.e. "play", "rewind") attribute
+    * CSS has `visibility` to show or hide controls and `opacity` which allows for the controls to have a translucent appearance
+  * Notable things about the JS
+    * constants are created for all the functionality of the control (i.e. play, stop, rewind, fast-forward, timer)
+    * `.removeAttribute();` is used to remove the default (native) controls and show the custom made ones from the HTML and CSS files
+    * `.addEventListener();` are created to execute a function when an event is triggered on the control buttons
+
 ## Chapter 9: Flash, Video & Audio (pp. 201-206)
+
+* Flash was a popular tool in the mid 90's and 2000's that made it easy to display animation on the web
+  * not used much any more as other tools have been introduced that make creating animation easier and less tech devices support Flash

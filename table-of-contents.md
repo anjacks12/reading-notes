@@ -43,9 +43,9 @@
 
 + [Reading 10: Debugging](class-10.md)
 
-+ [Reading 11: Audio, Video, Images]()
++ [Reading 11: Audio, Video, Images](class-11.md)
 
-+ [Reading 12]()
++ [Reading 12: Docs for the HTML <canvas> Element & Chart.js](class-12.md)
 
 + [Reading 13]()
 

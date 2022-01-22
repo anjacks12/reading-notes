@@ -47,7 +47,7 @@
 
 + [Reading 12: Docs for the HTML <canvas> Element & Chart.js](class-12.md)
 
-+ [Reading 13]()
++ [Reading 13: Local Storage](class-13.md)
 
 + [Reading 14]()
 

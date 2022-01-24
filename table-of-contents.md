@@ -49,6 +49,6 @@
 
 + [Reading 13: Local Storage](class-13.md)
 
-+ [Reading 14]()
++ [Reading 14: CSS Transforms, Transitions, and Animations](class-14.md)
 
-+ [Reading 15]()
++ [Reading 15: What Google Learned About Teams](class-15.md)

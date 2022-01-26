@@ -24,8 +24,26 @@ From "Learn to Code Advanced HTML & CSS": [Lesson 7](https://learn.shayhowe.com/
 
 From "Learn to Code Advanced HTML & CSS:: [Lesson 8](https://learn.shayhowe.com/advanced-html-css/transitions-animations/)</br>
 
-* text
+* `transitions` allows for different style states and animation to occur on HTML elements by using CSS3
+* `:hover`, `:focus`, `:active`, `:target` are pseudo-classes that can be used to determine different style states
+* The 4 transition related properties are:
+  * `transition-property`
+  * `transition-duration`
+  * `transition-timing-function`
+  * `transition-delay`
+* Animation
+  * `@keyframs` are used to set where an element undergoes transition
+    * different vendors have different `@keyframe` rules
 
 From "Web Design Blog": [8 Simple CSS3 Transitions That Will Wow Your Users](https://www.webdesignerdepot.com/2014/05/8-simple-css3-transitions-that-will-wow-your-users/)</br>
 
-* text
+* These 8 effects are controlled by the `transition` property
+  * Has 3 values: properties, speed, and acceleration/deceleration
+  * Fade in 2 step process (initial and transition)
+  * Change color
+  * Grow & Shrink
+  * Rotate elements
+  * Square to circle
+  * 3D shadow
+  * Swing
+  * Inset border
